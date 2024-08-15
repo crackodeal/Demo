@@ -7,7 +7,7 @@
 # Samples
 
 Below are sample diagrams for public demonstration.
-TODS (Transactional Operational Data Source) is a Minimum Viable Product currently under development.
+TODS (Transact Operational Data Source) is a Minimum Viable Product currently under development.
 
 ## TODS data processing
 ![Test Embedding draw.io](./TODS-Diagram.drawio.svg)
